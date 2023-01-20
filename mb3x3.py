@@ -1,7 +1,7 @@
 import ascii3x3 as l
 import color
 import time
-from breakout_bme68x import BreakoutBME68X
+# from breakout_bme68x import BreakoutBME68X
 from breakout_rgbmatrix5x5 import BreakoutRGBMatrix5x5
 from pimoroni_i2c import PimoroniI2C
 from pimoroni import PICO_EXPLORER_I2C_PINS
